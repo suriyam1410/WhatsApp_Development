@@ -4,6 +4,8 @@ public class HelloWorld {
 	
 	System.out.println("Hello Agni");
 	System.out.println("Hello Riya");
+		
+		Return;
 	
 	} 
 
